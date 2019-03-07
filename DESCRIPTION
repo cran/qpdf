@@ -1,7 +1,7 @@
 Package: qpdf
 Type: Package
 Title: Split, Combine and Compress PDF Files
-Version: 1.0
+Version: 1.1
 Authors@R: c(person("Jeroen", "Ooms", role = c("aut", "cre"), 
     email = "jeroen@berkeley.edu", comment = c(ORCID = "0000-0002-4035-0289")),
         person("Jay Berkenbilt", role = "cph", comment = "Author of libqpdf"))
@@ -21,9 +21,9 @@ LinkingTo: Rcpp
 RoxygenNote: 6.1.1
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2019-02-27 21:01:12 UTC; jeroen
+Packaged: 2019-03-06 15:53:35 UTC; jeroen
 Author: Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>),
   Jay Berkenbilt [cph] (Author of libqpdf)
 Maintainer: Jeroen Ooms <jeroen@berkeley.edu>
 Repository: CRAN
-Date/Publication: 2019-02-28 17:50:03 UTC
+Date/Publication: 2019-03-07 10:50:04 UTC

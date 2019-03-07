@@ -1,0 +1,13 @@
+#!/bin/sh
+if [ -z "$EXTERNAL_QPDF" ]; then
+  echo "Using bundled qpdf (recommended)"
+  exit 0
+fi
+
+# For distro's that prefer external libqpdf (>= 8.1.0)
+PKGCONFIG_CFLAGS=`pkg-config --cflags --silence-errors libqpdf`
+PKGCONFIG_LIBS=`pkg-config --libs libqpdf`
+
+# Overwrite Makevars
+echo "PKG_CPPFLAGS=$PKGCONFIG_CFLAGS" > src/Makevars
+echo "PKG_LIBS=$PKGCONFIG_LIBS" >> src/Makevars

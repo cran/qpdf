@@ -1,9 +1,11 @@
-4a1cf76988050807bca6054c0c41d311 *DESCRIPTION
+dde24d947c3290607723b17f2e9492cb *DESCRIPTION
 7f6fd9f222a129d3bd37c28585505935 *NAMESPACE
+c04ff2941afc0202f2209a40c32e8883 *NEWS
 9b133787e0818345678972a103dabe42 *R/RcppExports.R
 1a8f066f3c76e3c59cc80c1be4439b28 *R/qpdf.R
+86f0b0bc5ffe46a018d6806e9f86b3f9 *configure
 ef175305cba6aef0982c43372f06ba22 *man/qpdf.Rd
-167ca6ebd5a73a057fccda8e0654b957 *src/Makevars
+a7dbd555a76665c1de03a205538da8cf *src/Makevars
 105f56c4684cf02c17de190159bdd43a *src/RcppExports.cpp
 e6a3d605b799d9248d960b2da30f0caf *src/bindings.cpp
 61a04588c1d6bf3e0250ef601fab2ba3 *src/include/qpdf/Buffer.hh
