@@ -1,13 +1,13 @@
-dde24d947c3290607723b17f2e9492cb *DESCRIPTION
-7f6fd9f222a129d3bd37c28585505935 *NAMESPACE
-c04ff2941afc0202f2209a40c32e8883 *NEWS
-9b133787e0818345678972a103dabe42 *R/RcppExports.R
-1a8f066f3c76e3c59cc80c1be4439b28 *R/qpdf.R
-86f0b0bc5ffe46a018d6806e9f86b3f9 *configure
-ef175305cba6aef0982c43372f06ba22 *man/qpdf.Rd
+5a4d504262064ffd1a1d2abbb1b7105e *DESCRIPTION
+0364b594bd298e3ddeb9d1d3b77aa78e *NAMESPACE
+a18614c0298b994a76d75a798ccf95ef *NEWS
+d2461ed61519b698fad98842d9f8dbad *R/RcppExports.R
+ba6ea9764e02616344141b37655e79ba *R/qpdf.R
+fac05f46b8fc3015c930047971bb9147 *configure
+5a7ea126ca5efe3b329f1114b2a03e1a *man/qpdf.Rd
 a7dbd555a76665c1de03a205538da8cf *src/Makevars
-105f56c4684cf02c17de190159bdd43a *src/RcppExports.cpp
-e6a3d605b799d9248d960b2da30f0caf *src/bindings.cpp
+aaa41e8d6b51a6bad7306a489fbeb5a0 *src/RcppExports.cpp
+8ddbdce3c451eb3b74ddbf89edc4803a *src/bindings.cpp
 61a04588c1d6bf3e0250ef601fab2ba3 *src/include/qpdf/Buffer.hh
 81853473d347dee91d3fb9d004f23acb *src/include/qpdf/BufferInputSource.hh
 2a18b0d0695f5e50dea55d3984285359 *src/include/qpdf/ClosedFileInputSource.hh
@@ -167,3 +167,4 @@ e73376fc4042a98d46f678e0bcf7ca3d *src/libqpdf/sph/sph_sha2.h
 6e107b2abac7dbf93e4ec8216407f22e *tests/testthat.R
 31fbfcaf860bf3d74fcb95a645f62a33 *tests/testthat/pdf-example-password.original.pdf
 b3a7b26bbd18f33a0f5f519530a4a8c6 *tests/testthat/test-password-callback.R
+85140653077b743c59bb5805dcfbd45e *tests/testthat/test-rotate.R
