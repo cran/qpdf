@@ -1,11 +1,11 @@
-c62f5494fcc787f2a65ade3a22c50864 *DESCRIPTION
+ccafe1ec21250bf09b76eb474401b2cc *DESCRIPTION
 756e8aae1002f9a84646ba184ca64116 *NAMESPACE
-b5a084f0cdca0ffed251874f39a73492 *NEWS
+6f8f6357853e79dd38e0cef288cb74b2 *NEWS
 80a76f798791cea9d683f250b15c3fcc *R/RcppExports.R
 48577aa8077deb3dd98a9bd231329b25 *R/qpdf.R
 167bd089b0cec18848306834a23834ce *configure
 b09b2b2f67c0d6e5ba127b03f536790f *man/qpdf.Rd
-a7dbd555a76665c1de03a205538da8cf *src/Makevars
+30c6289b2a9c1094084c7408669fb0b5 *src/Makevars
 9ec9b68fced12f327ac2f06b3910d1eb *src/RcppExports.cpp
 db0668941e7b7a0df1d65ab4fade0a56 *src/bindings.cpp
 61a04588c1d6bf3e0250ef601fab2ba3 *src/include/qpdf/Buffer.hh
@@ -26,7 +26,7 @@ b0401bc000d6866c8dabbc3dd950188c *src/include/qpdf/Pl_Discard.hh
 a251ec880cec64d298a8613e32e8c131 *src/include/qpdf/Pl_QPDFTokenizer.hh
 17b0c9f0e14b35f4190a8d3f1c8edf17 *src/include/qpdf/Pl_RunLength.hh
 bba7491ae31ad29fc4d3cb315f702387 *src/include/qpdf/Pl_StdioFile.hh
-553480a95610bb4f79f83c332a623c6e *src/include/qpdf/PointerHolder.hh
+a44bb7e50f65a7ecfd3228f56ce0388b *src/include/qpdf/PointerHolder.hh
 234dbf4f608758e753dd279fc650d886 *src/include/qpdf/QPDF.hh
 604cfd6ed7290f78909aade44752c7c3 *src/include/qpdf/QPDFAcroFormDocumentHelper.hh
 63526de94348fd84d1f2810ab0123cf7 *src/include/qpdf/QPDFAnnotationObjectHelper.hh
